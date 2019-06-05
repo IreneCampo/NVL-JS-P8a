@@ -1,0 +1,13 @@
+var a= "Amigo";
+
+alert (a.toLowerCase());
+// nos mostrará amigo. 
+
+alert(a.replace ("A", "a"));
+// nos mostrará, de nuevo, amigo.
+
+alert(a.toUpperCase());
+//nos mostrará AMIGO.
+
+
+
